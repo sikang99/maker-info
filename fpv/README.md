@@ -2,7 +2,8 @@
 
 
 ### History
-- [How to choose FPV camera for quadcopteris and drones](https://oscarliang.com/best-fpv-camera-quadcopter/)
+- 2019/09/11 [Understanding Drone FPV Live Video, Antenna Gain And Range](https://www.dronezon.com/learn-about-drones-quadcopters/learn-about-uav-antenna-fpv-live-video-transmitters-receivers/)
+- 2019/08/19 [How to choose FPV camera for quadcopteris and drones](https://oscarliang.com/best-fpv-camera-quadcopter/)
 
 
 ### Information
