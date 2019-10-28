@@ -32,6 +32,8 @@ ISA : Instruction Set Architecture
 
 ### Sldies
 - 2019 [**RISC-V Past, Present, Future**](https://syntacore.com/media/riscv_moscow_2019/RISC-V%20Foundation%20State%20of%20the%20Union_Krste.pdf)
+- 2019 [Porting Debian to the RISC-V architecture](https://archive.fosdem.org/2019/schedule/event/riscvdebian/attachments/slides/3179/export/events/attachments/riscvdebian/slides/3179/Porting_Debian_to_the_RISC_V_architecture_FOSDEM_2019.pdf)
+
 
 ### Papers
 - 2017 [Implementation and Benchmarking of RISC-V Microprocessors](https://www.csem.ch/Doc.aspx?id=49372)
