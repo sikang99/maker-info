@@ -11,6 +11,9 @@ Maker for Devices
 
 ### Information
 
+### RISC-V
+- [RISC-V - Wikipedia](https://en.wikipedia.org/wiki/RISC-V)
+- [SiFive](https://www.sifive.com/) - [HiFive1](https://www.sifive.com/boards/hifive1)
 
 ### Open Source
 
