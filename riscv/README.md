@@ -2,8 +2,8 @@
 RISC-V Information
 
 ### Terminology
-ISA : Instruction Set Architecture
-RISC : Reduced Instruction Set Computing
+- ISA : Instruction Set Architecture
+- RISC : Reduced Instruction Set Computing
 
 
 ### History
