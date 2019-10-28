@@ -1,13 +1,14 @@
 ## maker-info/riscv
-
+RISC-V Information
 
 ### Terminology
-
+ISA : Instruction Set Architecture
 
 ### History
 - 2019/10/14 [**Why we need RISC-V**](https://hackernoon.com/why-we-need-risc-v-f94e3929891b)
 - 2019/10/14 [Samsung To Fabricate RISC-V Chip With 14LPP In Partnership With SemiFive](https://wccftech.com/samsung-risc-v-chip-14nm/)
 - 2019/06/26 [Alibaba Is Open-Sourcing Its Powerful New RISC-V Processor for 5G and AI](https://medium.com/syncedreview/alibaba-is-open-sourcing-its-powerful-new-risc-v-processor-for-5g-and-ai-dcb6f4eebbc4)
+- 2019/06/10 [Xiaomi Mi Band 4 likely to use Huami’s RISC-V based Huangshan No.1 Chip](https://www.gizmochina.com/2019/06/10/xiaomi-mi-band-4-likely-to-use-huamis-risc-v-based-huangshan-no-1-chip/)
 
 
 ### Domestic News
@@ -18,13 +19,16 @@
 - [RISC-V - Wikipedia](https://en.wikipedia.org/wiki/RISC-V)
 - [SiFive](https://www.sifive.com/) - [HiFive1](https://www.sifive.com/boards/hifive1)
 - [lowRISC](https://www.lowrisc.org/) - Open to the core Enabling open source silicon through collaborative engineering
+- [PULP Platform](https://pulp-platform.org/)
 - [Using FreeRTOS on RISC-V Microcontrollers](https://www.freertos.org/Using-FreeRTOS-on-RISC-V.html)
 - [Sipeed MAIX : The World First RISC-V 64 AI Module](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
-- [PULP Platform](https://pulp-platform.org/)
+
 
 
 ### Open Source
 - [riscv](https://github.com/riscv) - RISC-V
+- [chipsalliance/rocket-tools](https://github.com/chipsalliance/rocket-tools) - Software tools that support rocket-chip (GNU toolchain, ISA simulator, tests)
+
 
 ### Sldies
 - 2019 [**RISC-V Past, Present, Future**](https://syntacore.com/media/riscv_moscow_2019/RISC-V%20Foundation%20State%20of%20the%20Union_Krste.pdf)
