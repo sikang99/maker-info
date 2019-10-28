@@ -10,15 +10,28 @@
 - 2019/06/26 [Alibaba Is Open-Sourcing Its Powerful New RISC-V Processor for 5G and AI](https://medium.com/syncedreview/alibaba-is-open-sourcing-its-powerful-new-risc-v-processor-for-5g-and-ai-dcb6f4eebbc4)
 
 
+### Domestic News
+- [오픈소스 칩 설계 아키텍처, ‘리스크-V(RISC-V)를 주목하라!’](http://www.itbiznews.com/news/articleView.html?idxno=14524)
+
 
 ### Information
 - [RISC-V - Wikipedia](https://en.wikipedia.org/wiki/RISC-V)
 - [SiFive](https://www.sifive.com/) - [HiFive1](https://www.sifive.com/boards/hifive1)
 - [lowRISC](https://www.lowrisc.org/) - Open to the core Enabling open source silicon through collaborative engineering
+- [Using FreeRTOS on RISC-V Microcontrollers](https://www.freertos.org/Using-FreeRTOS-on-RISC-V.html)
+- [Sipeed MAIX : The World First RISC-V 64 AI Module](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
+- [PULP Platform](https://pulp-platform.org/)
 
 
 ### Open Source
 - [riscv](https://github.com/riscv) - RISC-V
+
+### Sldies
+- 2019 [**RISC-V Past, Present, Future**](https://syntacore.com/media/riscv_moscow_2019/RISC-V%20Foundation%20State%20of%20the%20Union_Krste.pdf)
+
+### Papers
+- 2017 [Implementation and Benchmarking of RISC-V Microprocessors](https://www.csem.ch/Doc.aspx?id=49372)
+
 
 
 
