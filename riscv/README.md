@@ -3,6 +3,8 @@ RISC-V Information
 
 ### Terminology
 ISA : Instruction Set Architecture
+RISC : Reduced Instruction Set Computing
+
 
 ### History
 - 2019/10/14 [**Why we need RISC-V**](https://hackernoon.com/why-we-need-risc-v-f94e3929891b)
