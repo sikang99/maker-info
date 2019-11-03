@@ -7,6 +7,7 @@ RISC-V Information
 
 
 ### History
+- 2019/10/15 [The RISC-V Foundation Announces Agenda for the Second Annual RISC-V Summit](https://riscv.org/2019/10/the-risc-v-foundation-announces-agenda-for-the-second-annual-risc-v-summit/)
 - 2019/10/14 [**Why we need RISC-V**](https://hackernoon.com/why-we-need-risc-v-f94e3929891b)
 - 2019/10/14 [Samsung To Fabricate RISC-V Chip With 14LPP In Partnership With SemiFive](https://wccftech.com/samsung-risc-v-chip-14nm/)
 - 2019/06/26 [Alibaba Is Open-Sourcing Its Powerful New RISC-V Processor for 5G and AI](https://medium.com/syncedreview/alibaba-is-open-sourcing-its-powerful-new-risc-v-processor-for-5g-and-ai-dcb6f4eebbc4)
@@ -15,7 +16,8 @@ RISC-V Information
 
 
 ### Domestic News
-- [오픈소스 칩 설계 아키텍처, ‘리스크-V(RISC-V)를 주목하라!’](http://www.itbiznews.com/news/articleView.html?idxno=14524)
+- 2019/10/11 [삼성 파운드리 RISC-V 코어 칩 생산 나선다](http://www.thelec.kr/news/articleView.html?idxno=3410)
+- 2019/05/21 [오픈소스 칩 설계 아키텍처, ‘리스크-V(RISC-V)를 주목하라!’](http://www.itbiznews.com/news/articleView.html?idxno=14524)
 
 
 ### Information
