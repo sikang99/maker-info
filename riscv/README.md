@@ -8,6 +8,7 @@ RISC-V Information
 
 ### History
 - 2019/10/24 [Incredibly Scalable High-Performance RISC-V Core IP](https://www.sifive.com/blog/incredibly-scalable-high-performance-risc-v-core-ip)
+    - deep learning and real-time low latency processing
 - 2019/10/15 [The RISC-V Foundation Announces Agenda for the Second Annual RISC-V Summit](https://riscv.org/2019/10/the-risc-v-foundation-announces-agenda-for-the-second-annual-risc-v-summit/)
 - 2019/10/14 [**Why we need RISC-V**](https://hackernoon.com/why-we-need-risc-v-f94e3929891b)
 - 2019/10/14 [Samsung To Fabricate RISC-V Chip With 14LPP In Partnership With SemiFive](https://wccftech.com/samsung-risc-v-chip-14nm/)
@@ -29,7 +30,7 @@ RISC-V Information
 - [PULP Platform](https://pulp-platform.org/)
 - [Using FreeRTOS on RISC-V Microcontrollers](https://www.freertos.org/Using-FreeRTOS-on-RISC-V.html)
 - [Sipeed MAIX : The World First RISC-V 64 AI Module](https://www.indiegogo.com/projects/sipeed-maix-the-world-first-risc-v-64-ai-module#/)
-
+- [Chisel](https://www.chisel-lang.org/) - a hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs
 
 
 ### Open Source
