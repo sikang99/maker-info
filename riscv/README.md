@@ -48,6 +48,7 @@ RISC-V Information
 
 ### Papers
 - 2017 [Implementation and Benchmarking of RISC-V Microprocessors](https://www.csem.ch/Doc.aspx?id=49372)
+- 2019 FIRE Ststem: [UAV Control and Autonomous Flight](http://www.ecmjohnson.com/content/FinalReport_FIRE.pdf)
 
 
 
