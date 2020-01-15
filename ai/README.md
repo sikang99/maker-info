@@ -2,10 +2,13 @@
 Autonomous Toy Car
 
 ### History
+- 2020/01/14 [Coral is Google’s quiet initiative to enable AI without the cloud](https://www.theverge.com/2020/1/14/21065141/google-coral-ai-edge-computing-products-applications-cloud)
+- 2020/00/00
 - 2019/10/05 [These Small Cars Can Help Drive the Autonomous Future](https://www.wired.com/story/small-cars-help-drive-autonomous-future/)
 - 2019/06/29 [Build a Self-Driving RC Car using Raspberry Pi and Machine Learning using Google Colab](https://techwithsach.com/build-a-self-driving-rc-car-using-raspberry-pi-and-machine-learning-using-google-colab/)
 - 2019/06/12 [How we built a self-driving toy car based on Microsoft's ONNX runtime - and why we decided to publish it as an Open Source Dev Kit](https://www.linkedin.com/pulse/how-we-built-self-driving-toy-car-based-microsofts-onnx-vorhemus/)
 - 2019/04/20 [DeepPiCar — Part 1: How to Build a Deep Learning, Self Driving Robotic Car on a Shoestring Budget](https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c)
+- 2019/00/00
 - 2018/02/05 [Building a Toy Self-Driving Car: Part One](https://blog.floydhub.com/toy-self-driving-car-part-one/)
 - 2018/11/20 [AWS DeepRacer Toy Allows You to Experience Autonomous Racing Car](http://www.tuvie.com/aws-deepracer-toy-allows-you-to-experience-autonomous-racing-car/)
 
